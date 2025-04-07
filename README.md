@@ -45,6 +45,7 @@ I am a junior Computer Information Systems and Data Analytics major with a minor
     );
 });
 ```
+# How this code could be improved:
 ```
 - for (let i = 0; i < cards.length; i++) {
 -   cards[i].textContent = classFacts[i];
