@@ -45,6 +45,7 @@ I am a junior Computer Information Systems and Data Analytics major with a minor
     );
 });
 ```
+```
 - for (let i = 0; i < cards.length; i++) {
 -   cards[i].textContent = classFacts[i];
 -   cards[i].closest(".card").dataset.id = `card-${i}`;
@@ -53,7 +54,7 @@ I am a junior Computer Information Systems and Data Analytics major with a minor
 +   card.textContent = classFacts[i];
 +   card.closest(".card").dataset.id = `card-${i}`;
 + });
-
+```
 ## Code Link
 
 [View the code for this project here on my GitHub!](https://github.com/llemoine1230/dev-easy-project)
