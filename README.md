@@ -50,8 +50,8 @@ Matthew Wise
 });
 ```
 <details>
-  <summary>Click to expand!</summary>
-  This was a class project to make fact cards from classmates and have them do cool functions like flipping, being likable, and sortable.
+  <summary>Class project using class fact cards</summary>
+  This was a class project for Web Development (CIS 276) to make fact cards from classmates and have them do cool functions like flipping, being likable, and sortable. This snippet dynamically fills the back of each card with a classmate fact and gives each card a unique id to ensure sortability.
 </details>
 
 
