@@ -45,6 +45,12 @@ I am a junior Computer Information Systems and Data Analytics major with a minor
     );
 });
 ```
+## Code Link
+
+🔗 [View the code on GitHub](https://github.com/llemoine1230/dev-easy-project)
+
+---
+
 <details>
   <summary>Class project using class fact cards</summary>
 
