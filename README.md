@@ -74,6 +74,8 @@ I am a junior Computer Information Systems and Data Analytics major with a minor
   This snippet dynamically fills the back of each card with a classmate fact and gives each card a unique ID to ensure sortability.
 </details>
 
+### Quote
+> “Programming isn’t about what you know; it’s about what you can figure out.” – Chris Pine
 
 ### Socials
 
