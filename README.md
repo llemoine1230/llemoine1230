@@ -47,11 +47,14 @@ I am a junior Computer Information Systems and Data Analytics major with a minor
 ```
 <details>
   <summary>Class project using class fact cards</summary>
-  This was a class project for Web Development (CIS 276) 🦭 to make fact cards from classmates and have them do cool functions like 
- -flipping
- -being likable (❤️)
- -sortable
- This snippet dynamically fills the back of each card with a classmate fact and gives each card a unique id to ensure sortability.
+
+  This was a class project for Web Development (CIS 276) 🦭 to make fact cards from classmates and have them do cool functions like:
+
+  - Flipping  
+  - Being likable (❤️)  
+  - Sortable  
+
+  This snippet dynamically fills the back of each card with a classmate fact and gives each card a unique ID to ensure sortability.
 </details>
 
 
