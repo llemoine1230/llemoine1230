@@ -1,10 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Laura Lemoine
 =====================================================================================================================================
 
-Junior CIS and Data Analytics Major
+Senior CIS and Data Analytics Major
 -----------------------------------
 
-I am a junior Computer Information Systems and Data Analytics major with a minor in Cybersecurity at the University of North Alabama. I am passionate about leveraging my skills to help communities and businesses thrive. I am starting an internship as a Quality Analyst at Hexagon Asset Lifecycle in May, 2026 and I am so thrilled to be able to use the skills I have learned.
+I am a senior Computer Information Systems and Data Analytics major with a minor in Cybersecurity at the University of North Alabama. I am passionate about leveraging my skills to help communities and businesses thrive. I am currently doing an internship as a Quality Analyst at Hexagon Asset Lifecycle and I am so thrilled to be able to use the skills I have learned.
 
 * ✉️  You can contact me at [laura.lemoine1230@gmail.com](mailto:laura.lemoine1230@gmail.com)
 
