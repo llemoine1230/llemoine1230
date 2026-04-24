@@ -10,70 +10,18 @@ I am a senior Computer Information Systems and Data Analytics major with a minor
 
 ### Skills
 
-
 <p align="left">
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="36" height="36" alt="JQuery" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 </p>
 
-# dev-easy-group-project 
+## Repo Highlights
 
-## Authors: Laura Lemoine, Carly Copley, Dylan Goodwin, and Matthew Wise
----
+[Charity Scores Analysis](https://github.com/llemoine1230/Charity_Scores_Analysis)
 
-### Cool Code Example💻
-```javascript
- const cards = document.querySelectorAll(".flip-card-back");
-  for (let i = 0; i < cards.length; i++) {
-    cards[i].textContent = classFacts[i];
-    cards[i].closest(".card").dataset.id = `card-${i}`; // Ensure unique ID
-  }
+[Book Tracking App Group Project](https://github.com/ehb2004/bookworms)
 
-  document
-    .querySelectorAll(".card")
-    .forEach((card) =>
-      card.addEventListener("click", () =>
-        card.children[0].classList.toggle("flipped")
-      )
-    );
-
-  document
-    .getElementById("flipAll")
-    .addEventListener("click", () =>
-      document
-        .querySelectorAll(".flip-card-inner")
-        .forEach((card) => card.classList.toggle("flipped"))
-    );
-});
-```
-### How this code could be improved:
-```diff
-- for (let i = 0; i < cards.length; i++) {
--   cards[i].textContent = classFacts[i];
--   cards[i].closest(".card").dataset.id = `card-${i}`;
-- }
-+ cards.forEach((card, i) => {
-+   card.textContent = classFacts[i];
-+   card.closest(".card").dataset.id = `card-${i}`;
-+ });
-```
-## Code Link
-
-[View the code for this project here on my GitHub!](https://github.com/llemoine1230/dev-easy-project)
 
 ---
-
-<details>
-  <summary>Class project using class fact cards</summary>
-
-  This was a class project for Web Development (CIS 276) 🦭 to make fact cards from classmates and have them do cool functions like:
-
-  - Flipping  
-  - Being likable (❤️)  
-  - Sortable  
-
-  This snippet dynamically fills the back of each card with a classmate fact and gives each card a unique ID to ensure sortability.
-</details>
-
 
 ### Socials
 
